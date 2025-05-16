@@ -97,7 +97,7 @@ export default {
     }
 
     const loadData = async () => {
-      const pb = new PocketBase('http://localhost:8090')
+      const pb = new PocketBase('https://pocketbase-railway-production-83c8.up.railway.app')
 
       const allRecs = await pb.collection('absensi').getFullList({ sort: 'name' })
 
