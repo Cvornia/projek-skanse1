@@ -57,7 +57,7 @@ export default {
   },
   openForm() {
     window.open(
-      'https://docs.google.com/forms/d/1eloK7sdiiIjdbhu_RFjdIdyzz4bkIrxB53Nb2qjm70k/preview?edit_requested=true'
+      'https://forms.gle/o5cKh24Esr12tLcu8'
     );
     this.showModal = false;
   },
