@@ -74,13 +74,13 @@ export default {
         },
         {
           id: 5,
-          name: 'PSHT (Silat)',
+          name: 'Kera Sakti',
           icon: '🥋',
           desc: 'Melatih disiplin, bela diri tradisional, dan karakter pejuang sejati.',
           contact: '0859-7113-1108',
           link: 'https://wa.me/6285971131108',
           formLink : 'https://forms.gle/94WkUbXEGoR3oXbv5',
-          participantLink: 'https://docs.google.com/document/d/1PSHT_PARTICIPANTS_LINK/view'
+          participantLink: 'https://docs.google.com/spreadsheets/d/1ltUBP69axr0MKIPtHRwq4A0wUyFWdr_W9SkA1sUvw2U/edit?usp=sharing'
         }
       ]
     };
