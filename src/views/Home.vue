@@ -8,13 +8,13 @@
 
     <div class="container">
       <header class="page-header">
-        <h1 class="title">Selamat Datang di <span class="highlight">SKANSEV</span></h1>
+        <h1 class="title">Selamat Datang di <span class="highlight">SKANSEVGEV SMKN 7 Pangkep</span></h1>
         <div class="header-divider"></div>
 
         <div class="additional-section">
           <h2>Tentang Portal Ini</h2>
           <p>
-            Portal SKANSEVGEP dirancang untuk memudahkan siswa, guru, staf (warga sekolah dan orang tua/wali) dalam mengakses informasi penting seperti Absensi, Nilai, Survey, EValuasi, Game, Ekstrakurikuler dan Perpustakaan dengan tampilan modern dan interaktif, kami berkomitmen menyediakan pengalaman pengguna terbaik
+            Portal SKANSEVGEP dirancang untuk memudahkan Siswa, Guru, Staf, Komite (Warga Sekolah dan Orang Tua/Wali) dalam mengakses informasi penting seperti Absensi, Nilai, Survey, EValuasi, Game, Ekstrakurikuler dan Perpustakaan dengan tampilan modern dan interaktif, kami berkomitmen menyediakan pengalaman pengguna terbaik
           </p>
           <p>
             Silakan eksplorasi setiap fitur yang tersedia. Jika ada pertanyaan atau kendala, jangan ragu untuk menghubungi tim pengembang atau pihak sekolah.
