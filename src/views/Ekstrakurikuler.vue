@@ -37,8 +37,8 @@ export default {
           name: 'OSIS',
           icon: '🏫',
           desc: 'Belajar kepemimpinan, etika, serta menjadi role model siswa lainnya.',
-          contact: '0859-7113-1108',
-          link: 'https://wa.me/6285971131108',
+          contact: '0813-4012-7138',
+          link: 'https://wa.me/6281340127138',
           formLink: 'https://forms.gle/t92v3qgCZy2qPzYM8',
           participantLink: 'https://docs.google.com/spreadsheets/d/1N6mM90zRQbfJfDzu293-hFiUPlbtkzTXFUNgapuPIrI/edit?usp=drivesdk'
         },
@@ -47,8 +47,8 @@ export default {
           name: 'Pramuka',
           icon: '🏕️',
           desc: 'Survival, tali-temali, hingga kepemimpinan mandiri dan tangguh.',
-          contact: '0859-7113-1108',
-          link: 'https://wa.me/6285971131108',
+          contact: '0823-3888-3992',
+          link: 'https://wa.me/6282338883992',
           formLink: 'https://forms.gle/HR3CYCcwHVEAxdA66',
           participantLink: 'https://docs.google.com/spreadsheets/d/1sMurb7lz1g6EPSG05ncSD3sFdPF1ZT2sOI2Xqc_ZkzM/edit?usp=sharing'
         },
@@ -57,8 +57,8 @@ export default {
           name: 'PMR',
           icon: '🩹',
           desc: 'Pelatihan pertolongan pertama, kesehatan dasar, dan aksi sosial kemanusiaan.',
-          contact: '0859-7113-1108',
-          link: 'https://wa.me/6285971131108',
+          contact: '0813-5490-5879',
+          link: 'https://wa.me/6281354905879',
           formLink: 'https://forms.gle/ifeJwfLY65GyYUf66',
           participantLink: 'https://docs.google.com/spreadsheets/d/1nLBndBvLApfGs3cekxL_LVo2aMi73ruUImLqXunHx-4/edit?usp=sharing'
         },
@@ -67,8 +67,8 @@ export default {
           name: 'Voli',
           icon: '🏐',
           desc: 'Latihan rutin, kekompakan tim, dan kompetisi antar sekolah.',
-          contact: '0859-7113-1108',
-          link: 'https://wa.me/6285971131108',
+          contact: '0852-9806-5906',
+          link: 'https://wa.me/6285298065906',
           formLink: 'https://forms.gle/C4PaGLyxC8vLuAvD8',
           participantLink: 'https://docs.google.com/spreadsheets/d/1YmRjuHUOYsG7gyO3hzUh30MOShYhtiNlncXgvUbGe4k/edit?usp=sharing'
         },
